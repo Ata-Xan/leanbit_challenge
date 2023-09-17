@@ -37,6 +37,7 @@ def assign_developers_to_projects(projects, developers, local_holidays):
     project_selections = {}
     for project in projects:
         project_selections[project['id']] = model.NewBoolVar('y_{}'.format(project['id']))
+        print(project_selections)
         for developer in developers:
             for day in range(total_days):
                 birthdays=developer_birthdays(developer["birthday"], project["since"], project["until"])

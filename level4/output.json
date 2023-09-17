@@ -1,7 +1,7 @@
 {
   "feasible_projects": [
     1,
-    2
+    3
   ],
   "schedule": [
     {
@@ -268,256 +268,6 @@
       "Developer": 1,
       "Project": 1,
       "date": "2017-03-16"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-17"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-20"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-21"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-22"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-23"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-24"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-27"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-28"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-29"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-30"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-03-31"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-03"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-04"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-05"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-06"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-07"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-10"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-11"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-12"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-13"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-14"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-18"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-19"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-20"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-21"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-24"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-26"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-27"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-04-28"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-02"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-03"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-04"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-05"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-08"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-09"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-10"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-11"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-12"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-15"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-16"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-17"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-18"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-19"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-22"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-23"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-24"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-25"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-26"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-29"
-    },
-    {
-      "Developer": 1,
-      "Project": 2,
-      "date": "2017-05-30"
     },
     {
       "Developer": 1,
@@ -1506,502 +1256,97 @@
     },
     {
       "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-17"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-20"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-21"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-22"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-23"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-24"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-27"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-28"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-29"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-30"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-03-31"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-03"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-04"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-05"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-06"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-07"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-10"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-11"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-12"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-13"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-14"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-18"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-19"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-20"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-21"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-24"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-26"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-27"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-04-28"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-02"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-03"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-04"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-05"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-08"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-09"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-10"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-11"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-12"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-15"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-16"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
-      "date": "2017-05-17"
-    },
-    {
-      "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-18"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-19"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-22"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-23"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-24"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-25"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-26"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-29"
     },
     {
       "Developer": 2,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-30"
     },
     {
       "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-17"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-20"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-21"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-22"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-23"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-24"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-27"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-28"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-29"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-30"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-03-31"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-03"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-04"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-05"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-06"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-07"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-10"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-11"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-12"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-13"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-14"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-18"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-19"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-20"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-21"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-24"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-26"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-27"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-04-28"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-02"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-03"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-04"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-05"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-08"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-09"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-10"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-11"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-12"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-15"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
-      "date": "2017-05-16"
-    },
-    {
-      "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-17"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-18"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-19"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-22"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-23"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-24"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-25"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-26"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-29"
     },
     {
       "Developer": 3,
-      "Project": 2,
+      "Project": 3,
       "date": "2017-05-30"
     }
   ]
